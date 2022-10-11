@@ -29,6 +29,9 @@ This repository is based on Blog Writing. We encourage students to write a docum
 - Is Electric Vehicle Sector going to be a leader in India?
 - Is Privacy a myth?
 - Future of Crypto-Currency in India?
+- DevOps
+- Blockchain
+- Metaverse
 
 ## Guidelines to be followed while writing Documentation
 - Minimum words of your blog should be 300.
