@@ -1,3 +1,12 @@
+<strong>IS SECURITY A MYTH ?</strong>
+<hr>
+<strong>What is security?</strong><br>
+<br>
+Security is nothing but prevent from the harmfull things in the network.We know that in this digital world we are doing our all 
+operations digitaly .so with the advantage of internet there are multiple disadvantage also, like stealing ,selling of data
+and many things ..
+So we have to be carefull and secure our data from these harmfull things.
+
 ![Alt text](https://damassets.autodesk.net/content/dam/autodesk/www/trustcenter/cloud-security-756x378.jpg "Title")
 
 There is no such thing as privacy on the internet. With the recent coverage of espionage by Edward Snowden and the National Security Agency (NSA), 
@@ -18,7 +27,7 @@ If you waves on a smartphone, these science of logical analysis will disclose pl
 Review the application phrases and end what they demand approach to. vocabulary.com demands terrestrial district.
 Searching for the definition of "ridiculous" connected to the internet concede possibility not any more demand my point.
 
-Conclusion:
+<strong>Conclusion:</strong>
 
 
  The security is important in this techanical world .
