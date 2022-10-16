@@ -1,6 +1,6 @@
 <strong>IS SECURITY A MYTH ?</strong>
 <hr>
-<strong>What is security?</strong><br>
+<strong> # What is security?</strong><br>
 <br>
 Security is nothing but prevent from the harmfull things in the network.We know that in this digital world we are doing our all 
 operations digitaly .so with the advantage of internet there are multiple disadvantage also, like stealing ,selling of data
@@ -27,7 +27,7 @@ If you waves on a smartphone, these science of logical analysis will disclose pl
 Review the application phrases and end what they demand approach to. vocabulary.com demands terrestrial district.
 Searching for the definition of "ridiculous" connected to the internet concede possibility not any more demand my point.
 
-<strong>Conclusion:</strong>
+<strong> # Conclusion:</strong>
 
 
  The security is important in this techanical world .
