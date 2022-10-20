@@ -68,11 +68,4 @@ On the other hand, blockchain is not specifically intended for cryptocurrencies.
   IOTA is cryptocurrency which is not built using BLOCKCHAIN. It uses a Directed Acyclic Graph (DAG), a form of distributed ledger technology. 
 
 
- <h3> 🤝🏻 &nbsp;✨Connect with Me ✨</h3>
 
-<p align ="center">
-
-<a href="https://www.linkedin.com/in/ankitmishra1106/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ankit%20mishra-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/ankitmishra.0.0/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ankitmishra.0.0-blue?style=flat-square&logo=instagram"></a>
-<a href="ankitmrmishra1118@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ankitmrmishra1118@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
