@@ -31,7 +31,9 @@ This repository is based on Blog Writing. We encourage students to write a docum
 - Future of Crypto-Currency in India?
 - DevOps
 - Blockchain
-- Metaverse
+- Metaverse 
+- Introduction to Github.
+- Is Machine Learning models(DALL-E,IMAGEN,etc.) going to replace Graphic Designers and Video Editors?
 
 ## Guidelines to be followed while writing Documentation
 - Minimum words of your blog should be 300.
