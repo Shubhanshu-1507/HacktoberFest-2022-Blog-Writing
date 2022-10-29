@@ -38,3 +38,25 @@ One of the main advantages of 5G is that it increases more bandwidth that will h
 **7. Virtual medical operation**
 
 This ultimately can help in virtual surgery which can be performed from a remote location. Patients don't have to wait for too long if the doctors is not available.
+
+## *Disadvantages OF 5G Technology:*
+
+**1. Limited Coverage**
+
+While 5G technology is touted to have the fastest speed, its presence in only select cities globally that have 5G towers is one of the limitations of this technology.
+
+**2. Weak Upload Speeds**
+
+Experts believe that despite its ability to have faster download speeds, 5G technology will have less upload speed compared to 4G and 4G LTE. This is another drawback of 5G technology. 
+
+**3. Battery Damages**
+
+Another limitation of 5G technology is it weakens the cellular device, by draining the battery and reducing the lifespan. So far only a few manufacturers have introduced mobile phones that are 5G friendly. 
+
+**4. Interference With Airport And Flight Operations**
+
+In January this year, several airlines including Air India canceled their flights to the US as the telecom operators in the country were trying to roll out 5G operations in the country.
+
+**5. Cybersecurity Risk**
+
+Another drawback of 5G technology is it increases the risk of hacking thus impinging on cybersecurity. 
